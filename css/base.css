@@ -7,10 +7,10 @@
 :root {
 	font-size: 16px;
 	--color-line: rgb(0 0 0 / 36%);
-	--color-bg: #fff;
-	--color-text: #000;
-	--color-link: #000;
-	--color-link-hover: #000;
+	--color-bg: #f6f0ee;
+	--color-text: #100a02;
+	--color-link: #100a02;
+	--color-link-hover: #201200;
 	--content-font-family: "marlide-display-variable", sans-serif;
   	--content-font-var: 'wght' 300;
   	--content-font-weight: 300;
